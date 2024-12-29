@@ -49,10 +49,9 @@ AE470: Orbital Mechanics at Clarkson University
 - [Project #4 - STK Mission](https://github.com/jeffwalton/AE470/blob/main/Project04_AE470_STK-Mission.pdf)
 
 ### Solutions
-/*
-- [Assignment #1](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_01_solution_ae470.ipynb)
-- [Assignment #2](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_02_solution_ae470.ipynb)
-- [Assignment #3](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_03_solution_ae470.ipynb)
-- [Project #3](https://github.com/jeffwalton/AE470/blob/main/solutions/project_03_solution_take-home_test.ipynb)
 
-*/
+[comment:] # - [Assignment #1](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_01_solution_ae470.ipynb)
+[comment:] # - [Assignment #2](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_02_solution_ae470.ipynb)
+[comment:] # - [Assignment #3](https://github.com/jeffwalton/AE470/blob/main/solutions/assignment_03_solution_ae470.ipynb)
+[comment:] # - [Project #3](https://github.com/jeffwalton/AE470/blob/main/solutions/project_03_solution_take-home_test.ipynb)
+
