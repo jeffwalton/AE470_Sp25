@@ -78,11 +78,11 @@ H.D. Curtis; Orbital Mechanics for Engineering Students; Butterworth-Heinemann, 
 
 | Week  | Date | Topics | Graded Activity |
 | ----- | ---- | ------ | ----------- |
-| 1  | Jan 13 | Introduction |  |
-| 2  | Jan 20 | Vector and Matrix Review, Numerical Integration |  |
-| 3  | Jan 27 | Two-Body EOM, Two-Body Constants of Motion |  |
-| 4  | Feb 3 | Kepler's Laws | Assignment #1 - Numerical Integration |
-| 5  | Feb 10 | Two-Body Orbital Elements | Assignment #2 - p,v <=> Orbital Elements |
+| 1  | Jan 13 | Introduction, Python Environment, Vector and Matrix Review |  |
+| 2  | Jan 20 | Numerical Integration, Two-Body EOM |  |
+| 3  | Jan 27 | Two-Body Constants of Motion |  |
+| 4  | Feb 3 | Keplerian Orbits, Two-Body Orbital Elements | Assignment #1 - Numerical Integration |
+| 5  | Feb 10 | Keplerian Orbits, Time of Flight | Assignment #2 - p,v <=> Orbital Elements |
 | 6  | Feb 17 | Orbit Determination | Assignment #3 - Orbit Determination |
 | 7  | Feb 24 | Orbital Maneuvers | Assignment #4 - Orbit Maneuvers |
 | 7  | Feb 28 | **Test #1 Due** | Test #1 |
