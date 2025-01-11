@@ -36,17 +36,15 @@ AE470: Orbital Mechanics at Clarkson University
 
 ### Assignments
 
-- [Assignment #1 - Numerical Integration](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignment_01_ae470.ipynb)
-- [Assignment #2 - Two-Body Problems](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignment_02_ae470.ipynb)
-- [Assignment #3 - Classical Orbital Elements](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignment_03_ae470.ipynb)
-- [Assignment #4 - Interplanetary Trajectories](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignment_04_ae470.ipynb)
+- [Assignment #1 - Numerical Integration](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_01_ae470.ipynb)
+- [Assignment #2 - Two-Body Problems](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_02_ae470.ipynb)
+- [Assignment #3 - Classical Orbital Elements](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_03_ae470.ipynb)
+- [Assignment #4 - Interplanetary Trajectories](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_04_ae470.ipynb)
 
 ### Projects
 
-- [Project #1 - STK Level 1](https://github.com/jeffwalton/AE470_Sp25/blob/main/project1-2_ae470_STK.pdf)
-- [Project #2 - STK Level 2](https://github.com/jeffwalton/AE470_Sp25/blob/main/project1-2_ae470_STK.pdf)
-- [Project #3 - Take-Home Test - Ground Track/Sky Plot](https://github.com/jeffwalton/AE470_Sp25/blob/main/project_03_take-home_test.ipynb)
-- [Project #4 - STK Mission](https://github.com/jeffwalton/AE470_Sp25/blob/main/Project04_AE470_STK-Mission.pdf)
+- [Part #1 - STK Level 1](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/STK_Project_Level1_Spring2025.pdf)
+- [Part #2 - Mission Simulation](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/STK_Project_MissionSimulation_Spring2025.pdf)
 
 ### Solutions
 

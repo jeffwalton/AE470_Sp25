@@ -80,8 +80,8 @@ H.D. Curtis; Orbital Mechanics for Engineering Students; Butterworth-Heinemann, 
 | ----- | ---- | ------ | ----------- |
 | 1  | Jan 13 | Introduction, Python Environment, Vector and Matrix Review |  |
 | 2  | Jan 20 | Numerical Integration, Two-Body EOM |  |
-| 3  | Jan 27 | Two-Body Constants of Motion |  |
-| 4  | Feb 3 | Keplerian Orbits, Two-Body Orbital Elements | Assignment #1 - Numerical Integration |
+| 3  | Jan 27 | Two-Body Constants of Motion | Assignment #1 - Numerical Integration |
+| 4  | Feb 3 | Keplerian Orbits, Two-Body Orbital Elements | STK - Level 1 |
 | 5  | Feb 10 | Keplerian Orbits, Time of Flight | Assignment #2 - p,v <=> Orbital Elements |
 | 6  | Feb 17 | Orbit Determination | Assignment #3 - Orbit Determination |
 | 7  | Feb 24 | Orbital Maneuvers | Assignment #4 - Orbit Maneuvers |
@@ -92,16 +92,18 @@ H.D. Curtis; Orbital Mechanics for Engineering Students; Butterworth-Heinemann, 
 | 11  | Mar 24 | Restricted Three-Body Problem |  |
 | 12  | Mar 31 | Project Discussion  |  |
 | 13  | Apr 7 |  |  |
-| 14  | Apr 14 | Project Presentations | Project |
+| 14  | Apr 14 | Project Presentations | STK - Mission |
 | 14  | Apr 18 | **Test #2 Due** | Test #2 |
-| 15  | Apr 21 | Project Presentations | Project |
-| 16  | May 6 | **Project Write-Up Due** | Project |
+| 15  | Apr 21 | Project Presentations | STK - Mission |
+| 16  | May 6 | **Project Write-Up Due** | STK - Mission |
 
 
 ## Grading
 
-| Graded Activity | Percent of Final Grade |
-| --------------- | ---------------------- |
-| Assignments (x6) | 60% |
-| Project | 20% |
-| Tests (x2) | 20% |
+| Graded Activity | Percent of Final Grade | Part Percent |
+| --------------- | ---------------------- | ------------ |
+| Assignments (x6) | 60% |  |
+| Project | 20% |  |
+| STK - Level 1 |  | 5% |
+| STK - Mission |  | 15% |
+| Tests (x2) | 20% |  |
