@@ -3,11 +3,16 @@
 
 Spring 2025  
 Monday 4:00pm - 6:30pm  
-178 CAMP Building
+178 CAMP Building  
 
 Instructor: Jeff Walton, Ph.D.  
-Email: <jwalton@clarkson.edu>
-Office: CAMP 364
+Email: <jwalton@clarkson.edu>  
+Office: CAMP 364  
+
+TA: Saad Yousuf  
+Email: <yousufsi@clarkson.edu>  
+Office: CAMP 272  
+
 
 ![AE470](images/COE.png)
 
