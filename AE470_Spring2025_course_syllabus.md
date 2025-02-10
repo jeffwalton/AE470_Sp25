@@ -86,12 +86,14 @@ H.D. Curtis; Orbital Mechanics for Engineering Students; Butterworth-Heinemann, 
 | 1  | Jan 13 | Introduction, Python Environment, Vector and Matrix Review |  |
 | 2  | Jan 20 | Numerical Integration, Two-Body EOM |  |
 | 3  | Jan 27 | Two-Body Constants of Motion |  |
-| 4  | Feb 3 | Keplerian Orbits, Two-Body Orbital Elements | Assignment #1 - Numerical Integration |
-| 5  | Feb 10 | Keplerian Orbits, Time of Flight | STK - Level 1 |
-| 6  | Feb 17 | Orbit Determination | Assignment #2 - p,v <=> Orbital Elements |
-| 7  | Feb 24 | Orbital Maneuvers | Assignment #3 - Orbit Determination |
-| 7  | Feb 28 | **Test #1 Due** | Test #1 |
+| 4  | Feb 3 | Keplerian Orbits, Two-Body Orbital Elements |  |
+| 5  | Feb 10 | Keplerian Orbits, Time of Flight |  |
+| 5  | Feb 11 |  | Assignment #1 - Numerical Integration |
+| 6  | Feb 17 | Classical Orbital Elements | STK - Level 1 |
+| 6  | Feb 18 |  | Assignment #2 - Two-Body Problems |
+| 7  | Feb 24 | Orbital Maneuvers | Assignment #3 - p,v <=> Orbital Elements |
 | 8  | Mar 3 | Interplanetary Trajectories | Assignment #4 - Orbit Maneuvers |
+| 8  | Mar 5 | **Test #1 Due** | Test #1 |
 | 9  | Mar 10 | Orbital Perturbations | Assignment #5 - Interplanetary Trajectories |
 | 10  | Mar 17 | *Spring Recess (No Class)* |  |
 | 11  | Mar 24 | Restricted Three-Body Problem | Assignment #6 - Orbital Perturbations |
