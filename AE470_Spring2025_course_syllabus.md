@@ -91,7 +91,8 @@ H.D. Curtis; Orbital Mechanics for Engineering Students; Butterworth-Heinemann, 
 | 5  | Feb 11 |  | Assignment #1 - Numerical Integration |
 | 6  | Feb 17 | Classical Orbital Elements | STK - Level 1 |
 | 6  | Feb 18 |  | Assignment #2 - Two-Body Problems |
-| 7  | Feb 24 | Orbital Maneuvers | Assignment #3 - p,v <=> Orbital Elements |
+| 7  | Feb 24 | Orbital Maneuvers |  |
+| 7  | Feb 25 |  | Assignment #3 - p,v <=> Orbital Elements |
 | 8  | Mar 3 | Interplanetary Trajectories | Assignment #4 - Orbit Maneuvers |
 | 8  | Mar 5 | **Test #1 Due** | Test #1 |
 | 9  | Mar 10 | Orbital Perturbations | Assignment #5 - Interplanetary Trajectories |
