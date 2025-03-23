@@ -19,15 +19,17 @@ AE470: Orbital Mechanics at Clarkson University
 - [Notebook 07: Classical Orbital Elements](https://github.com/jeffwalton/AE470_Sp25/blob/main/07_ae470_classical_orbital_elements.ipynb)
 - [Notebook 08: Time, Date, Ground Tracks](https://github.com/jeffwalton/AE470_Sp25/blob/main/08_ae470_time_date_ground_track.ipynb)
 - [Slides: Orbital Maneuvers 01](Slides/slides_orbital_maneuvers_01.pdf)
-- [Notebook 09: Hohmann Transfer Examples](https://github.com/jeffwalton/AE470_Sp25/blob/main/09_ae470_Hohmann_transfer_examples.ipynb)
+- [Notebook 09: Hohmann Transfer Examples](https://github.com/jeffwalton/AE470_Sp25/blob/main/09_ae470_hohmann_transfer_examples.ipynb)
 - [Slides: Orbital Maneuvers 02](Slides/slides_orbital_maneuvers_02.pdf)
 - [Slides: Orbit Determination](Slides/slides_orbit_determination_01.pdf)
-- [Slides: GPS](Slides/slides_gps.pdf)
+- [Notebook 10: Orbital Maneuvers Examples](https://github.com/jeffwalton/AE470_Sp25/blob/main/10_ae470_orbital_maneuvers_examples.ipynb)
 - [Slides: Interplanetary Trajectories 01](Slides/slides_interplanetary_trajectories_01.pdf)
 - [Slides: Interplanetary Trajectories 02](Slides/slides_interplanetary_trajectories_02.pdf)
-- [Notebook 10: Interplanetary Trajectories](https://github.com/jeffwalton/AE470_Sp25/blob/main/10_ae470_interplanetary_trajectories.ipynb)
+- [Notebook 11: Interplanetary Transfers Examples](https://github.com/jeffwalton/AE470_Sp25/blob/main/11_ae470_interplanetary_transfers_examples.ipynb)
 - [Slides: Orbit Perturbations](Slides/slides_orbit_perturbations.pdf)
-- [Notebook 11: Circular Restricted Three-Body Problem](https://github.com/jeffwalton/AE470_Sp25/blob/main/11_ae470_circular_restricted_three-body_problem.ipynb)
+- [Notebook 12: Orbit Perturbations Examples](https://github.com/jeffwalton/AE470_Sp25/blob/main/12_ae470_orbit_perturbations_examples.ipynb)
+- [Notebook 13: Circular Restricted Three-Body Problem](https://github.com/jeffwalton/AE470_Sp25/blob/main/13_ae470_circular_restricted_three-body_problem.ipynb)
+- [Slides: GPS](Slides/slides_gps.pdf)
 
 
 ### Equations
@@ -41,6 +43,8 @@ AE470: Orbital Mechanics at Clarkson University
 - [Assignment #2 - Two-Body Problems](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_02_ae470.ipynb)
 - [Assignment #3 - Classical Orbital Elements](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_03_ae470.ipynb)
 - [Assignment #4 - STK Hohmann Transfer](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_04_ae470_Spring2025.pdf)
+- [Assignment #5 - STK Orbital Maneuvers](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_05_ae470.ipynb)
+- [Assignment #5 - STK Interplanetary Transfers](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_06_ae470.ipynb)
 
 ### Projects
 

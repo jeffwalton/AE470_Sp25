@@ -94,15 +94,17 @@ H.D. Curtis; Orbital Mechanics for Engineering Students; Butterworth-Heinemann, 
 | 7  | Feb 25 |  | Assignment #2 - Two-Body Problems |
 | 8  | Mar 3 | Time, Date, Ground Tracks; Orbital Maneuvers |  |
 | 8  | Mar 4 |  | Assignment #3 - p,v <=> Orbital Elements |
-| 9  | Mar 10 | Orbital Maneuvers, Interplanetary Trajectories |  |
-| 9  | Mar 11 |  | Assignment #4 - STK Hohmannn Transfer |
+| 9  | Mar 10 | Orbital Maneuvers, Orbit Determination |  |
+| 9  | Mar 11 |  | Assignment #4 - STK Hohmann Transfer |
 | 10  | Mar 17 | *Spring Recess (No Class)* |  |
-| 11  | Mar 24 | Orbital Perturbations |  |
-| 12  | Mar 31 | Restricted Three-Body Problem  | Assignment #6 - Orbital Perturbations |
-| 12  | Apr 1 | **Test #1 Due** | Test #1 |
-| 13  | Apr 7 |  |  |
+| 11  | Mar 24 | Interplanetary Trajectories, Orbital Perturbations |  |
+| 11  | Mar 25 |  | Assignment #5 - STK Orbital Maneuvers |
+| 12  | Mar 31 | Circular Restricted Three-Body Problem, Cislunar  |  |
+| 12  | Apr 1 |  | Assignment #6 - STK Interplanetary Trajectory |
+| 13  | Apr 7 | STK Mission |  |
+| 13  | Apr 8 |  | Assignment #7 - STK Orbital Pertubations |
 | 14  | Apr 14 | Project Presentations | STK - Mission |
-| 14  | Apr 18 | **Test #2 Due** | Test #2 |
+| 14  | Apr 15 |  | Assignment #8 - STK CR3BP |
 | 15  | Apr 21 | Project Presentations | STK - Mission |
 | 16  | May 6 | **Project Write-Up Due** | STK - Mission |
 
@@ -111,8 +113,7 @@ H.D. Curtis; Orbital Mechanics for Engineering Students; Butterworth-Heinemann, 
 
 | Graded Activity | Percent of Final Grade | Part Percent |
 | --------------- | ---------------------- | ------------ |
-| Assignments (x6) | 60% |  |
+| Assignments (x8) | 80% |  |
 | Project | 20% |  |
 | STK - Level 1 |  | 5% |
 | STK - Mission |  | 15% |
-| Tests (x2) | 20% |  |
