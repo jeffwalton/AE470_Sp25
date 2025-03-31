@@ -97,12 +97,12 @@ H.D. Curtis; Orbital Mechanics for Engineering Students; Butterworth-Heinemann, 
 | 9  | Mar 10 | Orbital Maneuvers, Orbit Determination |  |
 | 9  | Mar 11 |  | Assignment #4 - STK Hohmann Transfer |
 | 10  | Mar 17 | *Spring Recess (No Class)* |  |
-| 11  | Mar 24 | Interplanetary Trajectories, Orbital Perturbations |  |
+| 11  | Mar 24 | Interplanetary Trajectories |  |
 | 11  | Mar 25 |  | Assignment #5 - STK Orbital Maneuvers |
-| 12  | Mar 31 | Circular Restricted Three-Body Problem, Cislunar  |  |
+| 12  | Mar 31 | Orbital Perturbations  |  |
 | 12  | Apr 1 |  | Assignment #6 - STK Interplanetary Trajectory |
-| 13  | Apr 7 | STK Mission |  |
-| 13  | Apr 8 |  | Assignment #7 - STK Orbital Pertubations |
+| 13  | Apr 7 | Circular Restricted Three-Body Problem, Cislunar, STK Mission |  |
+| 13  | Apr 8 |  | Assignment #7 - STK Sun-Synchronous Orbit |
 | 14  | Apr 14 | Project Presentations | STK - Mission |
 | 14  | Apr 15 |  | Assignment #8 - STK CR3BP |
 | 15  | Apr 21 | Project Presentations | STK - Mission |

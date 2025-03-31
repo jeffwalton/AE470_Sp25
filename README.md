@@ -44,7 +44,8 @@ AE470: Orbital Mechanics at Clarkson University
 - [Assignment #3 - Classical Orbital Elements](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_03_ae470.ipynb)
 - [Assignment #4 - STK Hohmann Transfer](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_04_ae470_Spring2025.pdf)
 - [Assignment #5 - STK Orbital Maneuvers](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_05_ae470.ipynb)
-- [Assignment #5 - STK Interplanetary Transfers](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_06_ae470.ipynb)
+- [Assignment #6 - STK Interplanetary Transfers](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_06_ae470.ipynb)
+- [Assignment #7 - STK Sun-Synchronous Orbit](https://github.com/jeffwalton/AE470_Sp25/blob/main/assignments/assignment_07_ae470.ipynb)
 
 ### Projects
 
